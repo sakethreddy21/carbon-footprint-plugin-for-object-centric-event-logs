@@ -1,5 +1,9 @@
 # Carbon Footprint — an Ocelescope plugin
 
+[![build](https://github.com/sakethreddy21/carbon-footprint-plugin-for-object-centric-event-logs/actions/workflows/build.yml/badge.svg)](https://github.com/sakethreddy21/carbon-footprint-plugin-for-object-centric-event-logs/actions/workflows/build.yml)
+[![python](https://img.shields.io/badge/python-3.12%2B-blue)](pyproject.toml)
+[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 Carbon accounting for object-centric event logs: compute what each event emits,
 then divide those emissions among the objects the event involves.
 
